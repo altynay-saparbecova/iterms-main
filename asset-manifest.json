@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/iterms-main/static/css/main.689ce43a.chunk.css",
+    "main.js": "/iterms-main/static/js/main.8267fcc9.chunk.js",
+    "main.js.map": "/iterms-main/static/js/main.8267fcc9.chunk.js.map",
+    "runtime-main.js": "/iterms-main/static/js/runtime-main.9324791e.js",
+    "runtime-main.js.map": "/iterms-main/static/js/runtime-main.9324791e.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/iterms-main/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.90398f3c.chunk.js": "/iterms-main/static/js/2.90398f3c.chunk.js",
+    "static/js/2.90398f3c.chunk.js.map": "/iterms-main/static/js/2.90398f3c.chunk.js.map",
+    "index.html": "/iterms-main/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/iterms-main/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.689ce43a.chunk.css.map": "/iterms-main/static/css/main.689ce43a.chunk.css.map",
+    "static/js/2.90398f3c.chunk.js.LICENSE.txt": "/iterms-main/static/js/2.90398f3c.chunk.js.LICENSE.txt",
+    "static/media/AI.6521b1ac.png": "/iterms-main/static/media/AI.6521b1ac.png",
+    "static/media/CustomCollapse.2d196d5b.less": "/iterms-main/static/media/CustomCollapse.2d196d5b.less",
+    "static/media/Group 825.532ed884.png": "/iterms-main/static/media/Group 825.532ed884.png",
+    "static/media/Group 826.5e3136ed.png": "/iterms-main/static/media/Group 826.5e3136ed.png",
+    "static/media/Group3.0a89f0ce.png": "/iterms-main/static/media/Group3.0a89f0ce.png",
+    "static/media/Group4.941e1a93.png": "/iterms-main/static/media/Group4.941e1a93.png",
+    "static/media/ava.cebfa09d.png": "/iterms-main/static/media/ava.cebfa09d.png",
+    "static/media/setting.css": "/iterms-main/static/media/bgsgUp.68528a38.png",
+    "static/media/card.7b4d5125.png": "/iterms-main/static/media/card.7b4d5125.png",
+    "static/media/circle.7d5d2c1d.png": "/iterms-main/static/media/circle.7d5d2c1d.png",
+    "static/media/Footer.css": "/iterms-main/static/media/footer-bg.3e7c6ffb.png",
+    "static/media/Home.css": "/iterms-main/static/media/main-bg.24f55edf.png",
+    "static/media/main2.5113d510.png": "/iterms-main/static/media/main2.5113d510.png",
+    "static/media/marker.2de7a16b.png": "/iterms-main/static/media/marker.2de7a16b.png",
+    "static/media/setting.36fbd6ee.png": "/iterms-main/static/media/setting.36fbd6ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9324791e.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.90398f3c.chunk.js",
+    "static/css/main.689ce43a.chunk.css",
+    "static/js/main.8267fcc9.chunk.js"
+  ]
+}
